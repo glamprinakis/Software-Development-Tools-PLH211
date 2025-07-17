@@ -13,7 +13,6 @@
 2. [Project 2 – Linux/Bash & Process Control](#project-2)
 3. [Getting Started](#getting-started)
 4. [Directory Structure](#directory-structure)
-5. [License](#license)
 
 ---
 
@@ -112,6 +111,3 @@ jupyter lab  # open the .ipynb files for a guided walkthrough
 
 ---
 
-## License
-
-Material provided for educational purposes under the **MIT License**. See `LICENSE` for details.
